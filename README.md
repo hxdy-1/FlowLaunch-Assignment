@@ -1,23 +1,21 @@
-# [Live demo](https://flowlaunc-assignment-hady.vercel.app/)
+# [Live demo](https://flow-launch-assignment.vercel.app/)
 
-## Getting Started
+## How to run locally:
 
-### Clone the Repository
-
-First, clone the repository to your local machine:
+Clone the repository to your local machine
 
 ```bash
 git clone https://github.com/hxdy-1/FlowLaunch-Assignment.git
 cd flowlaunch
 ```
 
-Install dependency.
+Install dependencies
 
 ```bash
 npm install
 ```
 
-Run locally.
+Run locally
 
 ```bash
 npm run dev
